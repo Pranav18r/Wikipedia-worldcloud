@@ -2,7 +2,8 @@
 Wordcloud of Words in a Wikipedia Article
 
 Wikemedia api used to create an interactive website which finds the words in the webpage and generates the wordcloud.
-<img width="1086" height="1230" alt="image" src="https://github.com/user-attachments/assets/49506bfc-0bda-4fb2-99bc-8f295dd56d73" />
+<img width="1021" height="1192" alt="image" src="https://github.com/user-attachments/assets/c829aa0a-5ea2-4c83-aa12-208b28b7f5ba" />
+
 
 Created and coded by during Wikimedia workshop:
 with githubusername
